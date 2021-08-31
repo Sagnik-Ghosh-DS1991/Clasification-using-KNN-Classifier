@@ -1,2 +1,2 @@
-# Clasification-using-KNN-Classifier
+# Classification-using-KNN-Classifier
 Heart Disease Prediction using KNN Classifier
